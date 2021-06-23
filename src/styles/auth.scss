@@ -81,6 +81,7 @@
   }
 
   .create-room{
+
     margin-top: 64px;
     height:50px;
     border-radius: 8px;
@@ -101,10 +102,9 @@
       margin-right: 8px;
     }
 
-    &::hover{
-      filter:brightness(0.9);
+    &:hover{
+      filter: brightness(0.9);
     }
-
   }
   
   
@@ -127,12 +127,9 @@
     &::after{
       content:'';
       flex: 1;
-      height:1px;
+      height: 1px;
       background: #a8a8b3;
       margin-left: 16px;
     }
   }
-
-  
-
 }
