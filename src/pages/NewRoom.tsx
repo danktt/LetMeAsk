@@ -1,3 +1,5 @@
+import { Link } from 'react-router-dom'
+
 import illustrationImg from '../assets/images/illustration.svg';
 import logoImg from '../assets/images/logo.svg';
 
@@ -17,17 +19,18 @@ export function NewRoom(){
           <div className="main-content">
             <img src={logoImg} alt="Letmeask" />
              
-            <div className="separator">
-              ou entre em um sala
-            </div>
+            <h2>Crie uma nova sala</h2>
 
             <form>
               <input type="text"
-              placeholder="Digite o código da sala" 
+              placeholder="Nome da sala" 
               />
               <Button type="submit">
-                Entrar na sala
+                Criar sala
               </Button>
+              <p>
+                Quer entrar em uma nova sala já existente? <Link to="/">Clique aqui</Link>
+              </p>
             </form>
           </div>
        </main>
