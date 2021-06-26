@@ -22,7 +22,6 @@ export function NewRoom(){
       <main >
           <div className="main-content">
             <img src={logoImg} alt="Letmeask" />
-
             <h2>Crie uma nova sala</h2>
 
             <form>
