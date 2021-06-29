@@ -34,6 +34,7 @@ export function AuthContextProvider(props: AuthContextProviderProps){
        if(!displayName || !photoURL){
         throw new Error('Missing information from Goolge Account.')
       }
+
       setUser({
        id: uid,
        name: displayName,
@@ -41,6 +42,7 @@ export function AuthContextProvider(props: AuthContextProviderProps){
       })
       }
     })
+    
     return ()=>{
       unsubscribe();
     }
