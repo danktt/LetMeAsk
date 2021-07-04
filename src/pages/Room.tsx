@@ -50,9 +50,11 @@ export function Room(){
           <img src={logoImg} alt="Letmeask" />
           <RoomCode code={roomId} />
         </div>
+
       </header>
 
       <main>
+
         <div className="room-title">
           <h1>Sala React</h1>
           <span>4 perguntas</span>
