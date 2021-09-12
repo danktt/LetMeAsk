@@ -1,6 +1,6 @@
 
 <p align="center">
-   <img src="./.github/logo.svg" alt="letmeask" width="300"/>
+   <img src="./images/logo.svg" alt="letmeask" width="300"/>
 </p>
 
 <p align="center">
