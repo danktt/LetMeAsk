@@ -9,10 +9,9 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lorenatoscano/letmeask?color=835AFD">
   
   <a href="https://github.com/lorenatoscano/letmeask/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lorenatoscano/letmeask?color=835AFD">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/danktt/letmeask?color=835AFD">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/lorenatoscano/letmeask?color=835AFD">
 </p>
 
 <p align="center">
