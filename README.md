@@ -49,7 +49,7 @@ Execute os comandos no seu terminal:
 $ git clone https://github.com/danktt/LetMeAsk.git
 
 # Entre no repositório
-$ cd letmeask
+$ cd LetMeAsk
 
 # Instale as dependências
 $ yarn install
