@@ -66,7 +66,7 @@ Acesse em seu navegador http://localhost:3000/ para ver o resultado.
 Siga @_daniilo.01 nas redes :wink:
 <br />
 
-- [Instagram](https://www.instagram.com/_daniilo.01/)
+- [Instagram](https://www.instagram.com/danilo.mirandaa_/)
 - [LinkedIn](https://www.linkedin.com/in/danilo-miranda15/)
 
 <br />
